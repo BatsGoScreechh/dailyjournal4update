@@ -1,0 +1,16 @@
+{
+    "entries": [
+    {
+        "concept": "Array methods",
+        "date": "07/24/2018",
+        "entry": "We learned about array methods, but only forEach made sense",
+        "mood": "Ok"
+    }, 
+    {
+        "concept": "Javascript",
+        "date": "09/11/2018",
+        "entry": "We learned about Javascript",
+        "mood": "Sad"
+    }
+]
+}
